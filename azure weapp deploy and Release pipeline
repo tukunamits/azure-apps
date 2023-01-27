@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/azure/app-service/deploy-azure-pipelines?tabs=yaml
+
+Code analysis:- https://docs.sonarqube.org/9.6/devops-platform-integration/azure-devops-integration/
+Azure build and Release pipeline https://faun.pub/azure-devops-build-release-with-yaml-templates-d55f25a4928c
